@@ -39,9 +39,7 @@ npm run dev
 ### 4. Source Structure
 
 ```
-- .vscode
-  - settings.json : 현재 프로젝트 내에서 사용되는 에디터 설정
-├── vue-base        # root
+├── youth-policy-front       # root
   ├── public        # Contains static assets and index.html
   ├── src           # Source Directory
     ├── assets               # App Assets and Styles
@@ -76,7 +74,7 @@ npm run dev
   ├── package-lock.json      # package-lock.json
   ├── README.md              # README.md
   ├── tsconfig.json          # 타입스크립트 설정
-  ├── vue.config.js          # Webpack Config
+  ├── vite.config.js         # vite Config
   ...
 
 ```
