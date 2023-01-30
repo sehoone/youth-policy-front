@@ -1,13 +1,14 @@
-# vue2-ts-base
-> Vue-Base for OpenObject
+# youth-policy-front
+> youth-policy-front 청년정책 프론트
 
-### 1. 기본 구성 환경 
-- Node v16.13.1
-- npm 8.1.2
-- @vue/cli 4.5
-- vue 2.6.11
-- eslint 6.7.2
-
+### 1. 주요 구성
+- Node v18.13.0
+- npm 9.4.0
+- vue 3.2.13
+- vite 3.1.9
+- eslint 8.22.0
+- typescript 4.0.0
+- pinia 2.0.23
 
 ### 2. 개발 환경
 - Visual Studio Code 1.63.2
